@@ -1,0 +1,10 @@
+PS D:\Kuliah\Semester-3\Perancangan Analisi Algoritma\MK\UAS> & "C:/Program Files/Python313/python.exe" "d:/Kuliah/Semester-3/Perancangan Analisi Algoritma/MK/UAS/extensi.py"
+n = 100, Waktu Kasus Terburuk = 0.0000009000s, Waktu Kasus Rata-Rata = 0.0000017200s
+n = 150, Waktu Kasus Terburuk = 0.0000004800s, Waktu Kasus Rata-Rata = 0.0000005800s
+n = 200, Waktu Kasus Terburuk = 0.0000004000s, Waktu Kasus Rata-Rata = 0.0000010400s
+n = 250, Waktu Kasus Terburuk = 0.0000009600s, Waktu Kasus Rata-Rata = 0.0000019400s
+n = 300, Waktu Kasus Terburuk = 0.0000009200s, Waktu Kasus Rata-Rata = 0.0000016400s
+n = 350, Waktu Kasus Terburuk = 0.0000005800s, Waktu Kasus Rata-Rata = 0.0000013800s
+n = 400, Waktu Kasus Terburuk = 0.0000003800s, Waktu Kasus Rata-Rata = 0.0000007800s
+n = 500, Waktu Kasus Terburuk = 0.0000008200s, Waktu Kasus Rata-Rata = 0.0000018200s
+PS D:\Kuliah\Semester-3\Perancangan Analisi Algoritma\MK\UAS>
